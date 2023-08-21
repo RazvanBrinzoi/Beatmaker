@@ -1,0 +1,13 @@
+.kick-track,
+.snare-track,
+.hihat-track{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    justify-content: space-between;
+    margin-top: 4rem;
+}
+
+.mute.active{
+    background: rgb(194, 193, 193);
+}

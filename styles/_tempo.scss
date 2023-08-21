@@ -1,0 +1,21 @@
+.tempo{
+    margin-top: 3rem;
+    width: 30%;
+}
+
+.tempo-slider{
+    padding: 0.2rem;
+    appearance: none;
+    margin: 0.25rem 0rem;
+    width: 100%;
+    position: relative;
+    background-color: rgb(195, 186, 186);
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.tempo p{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    text-align: center;
+}
